@@ -1,0 +1,11 @@
+{
+  "name": "eternal-force-blizzard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/lahilan/eternal-force-blizzard.git",
+  "author": "lahilan <lahilaniku@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  }
+}
